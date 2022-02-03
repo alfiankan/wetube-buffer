@@ -20,4 +20,11 @@
 4. Run cdn server with ``` cd cdn && go mod tidy && go run .  ```
 5. Run WebApp Client ``` cd client && npm install && npm run start ```
 
+## Generated Chunk file
+<img width="1001" alt="Screen Shot 2022-02-03 at 18 04 55" src="https://user-images.githubusercontent.com/40946917/152332395-c3e44f10-4390-4261-b2eb-3a3fd2dafe81.png">
+
+
+## Demo
+
+Uploading Screen Recording 2022-02-03 at 18.12.33.mov…
 
