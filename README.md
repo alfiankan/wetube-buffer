@@ -1,4 +1,4 @@
-# chunk video player using Shaka Player
+# DASH video player using Shaka Player
 
 
 ## App :
@@ -26,5 +26,5 @@
 
 ## Demo
 
-Uploading Screen Recording 2022-02-03 at 18.12.33.mov…
 
+<img width="1274" alt="Screen Shot 2022-02-03 at 18 34 03" src="https://user-images.githubusercontent.com/40946917/152335333-a439324f-5f33-410f-9f5c-19fd09d85501.png">
